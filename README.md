@@ -1,7 +1,7 @@
 # My "Find" Command
 
 > Author : Ya Chen<br>
-> Date : 2021 / 4 / 1<br>
+> Date : 2021 / 4 / 10<br>
 > List :
 >
 > > <a href = "#description">Description</a><br><a href = "#input">Input</a><br><a href = "#output">Output</a><br><a href = "#examples">Examples</a>
